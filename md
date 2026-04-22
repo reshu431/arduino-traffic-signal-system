@@ -77,9 +77,6 @@ This project is an embedded system-based traffic signal controller developed usi
 ## 👩‍💻 Author
 **Name:** Reshma Gottapu  
 **Branch:** Electrical & Electronics Engineering  
-**Domain:** Embedded Systems & IoT  
-
----
-
+**Domain:** Embedded Systems & IoT 
 ## 🔗 License
 This project is for educational purposes only.
